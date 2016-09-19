@@ -8,7 +8,10 @@ This circuit, is designed for showing BCD coded outputs in Decimal format, for [
 
 1. Logisim source, for [logisim evolution](https://github.com/reds-heig/logisim-evolution)
 2. Decoder Circuit :
+
 ![Decoder](https://github.com/prp-e/ladybug-decoder/blob/master/Decoder.png)
+
 3. A basic 4 bit counter :
+
 ![Basic Counter](https://github.com/prp-e/ladybug-decoder/blob/master/Basic%20Counter.png)
 
